@@ -1,0 +1,11 @@
+{
+    "name": "sebkay/wp-unit-test-stubs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Seb Kay",
+            "email": "seb@fhoke.com"
+        }
+    ],
+    "require": {}
+}
