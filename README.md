@@ -1,3 +1,7 @@
+## ⚠️ No Longer Maintained
+
+Please use [php-stubs/wordpress-tests-stubs](https://github.com/php-stubs/wordpress-tests-stubs) instead.
+
 # WP Unit Test Stubs
 
 A simple package used to help your IDE (Visual Studio Code, Sublime etc...) find class definitions for WordPress unit test classes.
