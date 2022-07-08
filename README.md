@@ -1,4 +1,4 @@
-## ⚠️ No Longer Maintained
+# ⚠️ No Longer Maintained
 
 Please use [php-stubs/wordpress-tests-stubs](https://github.com/php-stubs/wordpress-tests-stubs) instead.
 
